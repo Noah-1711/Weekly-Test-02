@@ -83,10 +83,11 @@
 
 .footerimages{
     width: 60%;
-    height: 30%;
+    height: 28%;
     display: flex;
     justify-content: space-around;
     align-items: center;
+
 
 }
 
