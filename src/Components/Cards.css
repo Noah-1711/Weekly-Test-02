@@ -12,9 +12,9 @@
 
 }
 .cards:hover{
-    width: 360px;
-    height: 290px;
-    transform: scale(1.1)  ;
+    width: 350px;
+    height: 280px;
+    transform: scale(1.10)  ;
       transition: all 0.2s ease-in-out;
 
 }

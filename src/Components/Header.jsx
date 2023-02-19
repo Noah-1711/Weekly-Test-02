@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <div className="header">
         <div className="contact">
-            <a href="https://google.com"> <p><IoIosCall /> </p> 05623527451</a>
+            <a href="https://google.com"> <p><IoIosCall /> </p> 056235271</a>
             <a href="https://google.com"> <p> <AiFillMail /> </p>enquiry@urbansciencemep.com</a>
 
         </div>
